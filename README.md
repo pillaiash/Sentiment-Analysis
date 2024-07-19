@@ -17,7 +17,7 @@ This repository contains a Python-based text analysis tool that performs sentime
 ## Installation
 
 1. Clone this repository:
-   git clone [https://github.com/yourusername/text-analysis-tool.git](https://github.com/pillaiash/Sentiment-Analysis.git)
+   git clone https://github.com/pillaiash/Sentiment-Analysis.git
    cd text-analysis-tool
 
 2.Install the required packages:
