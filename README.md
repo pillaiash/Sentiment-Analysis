@@ -30,8 +30,11 @@ This repository contains a Python-based text analysis tool that performs sentime
 # How It Works
 
 -analyze_sentiment(): Uses TextBlob to determine the sentiment of the text.
+
 -extract_key_phrases(): Utilizes spaCy to identify and extract noun chunks as key phrases.
+
 -assess_quality(): Calculates a quality score based on the number of key phrases and the sentiment.
+
 -The main() function: Reads responses from a file, processes each one, and prints the results.
 
 
